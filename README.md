@@ -12,3 +12,7 @@ Happy 40, bud! Love, Pete and Chris.
 python3 -m pip install -r requirements.txt --user
 python3 decode.py
 ```
+
+# OR
+
+Maybe you're having trouble with python/env setup. That's ok. Try out [this colab](https://colab.research.google.com/drive/16JAiTRZwD1xCvZB_rmqfW55YDMOVOs1u) instead.
